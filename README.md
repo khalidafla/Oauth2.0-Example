@@ -7,7 +7,7 @@ Then activate the OAuth2 API and put the correspanding values to the folowing at
   - clientId
   - clientSecret
 
-You'll have also to set the redirect URL to the callback Servelet like this : http://localhost:8080/%applicationName%/oauthCallBack
+You'll have also to set the redirect URL to the callback Servlet like this : http://localhost:8080/%applicationName%/oauthCallBack
 
 ### How does it work
 
